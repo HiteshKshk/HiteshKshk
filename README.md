@@ -29,15 +29,6 @@ I am a **B.Tech Artificial Intelligence & Machine Learning** student at **VIT Bh
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshKshk&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshKshk&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 *   **LinkedIn:** [linkedin.com/in/hitesh-kaushik-221ba6363](https://linkedin.com/in/hitesh-kaushik-221ba6363)
