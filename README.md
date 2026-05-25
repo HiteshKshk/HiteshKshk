@@ -1,35 +1,87 @@
-# Hitesh Kaushik
+<div align="center">
 
-I am a **B.Tech Artificial Intelligence & Machine Learning** student at **VIT Bhopal University**. I specialize in deep learning, natural language processing (NLP), computer vision, and dataset engineering, with a focus on building research-backed systems and polished AI-driven applications.
+<!-- ANIMATED SYSTEM STATUS -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=2000&pause=500&color=888888&center=true&vCenter=true&width=500&height=40&lines=%5B%E2%AC%A1%5D+Initializing+core+systems...;%5B%E2%AC%A0%5D+Establishing+secure+uplink...;%5B%E2%97%89%5D+Connection+stable.+Welcome." alt="System Status" />
 
----
+<!-- DYNAMIC TYPING NAME (Orbitron Font) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=80&lines=HITESH+KAUSHIK;AI+%26+ML+PRACTITIONER;NEURAL+NET+ARCHITECT" alt="Name SVG" />
 
-### 💻 Tech Stack
+<p align="center">
+  <strong>B.Tech Artificial Intelligence & Machine Learning Student @ VIT Bhopal University</strong>
+</p>
 
-#### Languages & Core Software
-*   **Languages:** Python, C++
-*   **Software & OS:** Git, Linux, Bash/Shell, Oracle Cloud (OCI)
+<code><kbd>⚡ GENERATIVE AI</kbd></code> &nbsp; <code><kbd>🧠 NLP & ATTENTION</kbd></code> &nbsp; <code><kbd>👁️ COMPUTER VISION</kbd></code> &nbsp; <code><kbd>📊 DATASET ENG</kbd></code>
 
-#### AI, Deep Learning & Computer Vision
-*   **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Hugging Face, OpenCV, NLTK, Scikit-Learn
-*   **Data Science:** Pandas, NumPy, Data Cleaning, Dataset Annotation & Review
-
----
-
-### ⚡ Selected Projects & Research
-
-*   **UNetMamba++ (Applied AI Research)**
-    *   *Hierarchical cross-scale attention model for remote sensing with dual supervision and robust feature learning.*
-*   **AMBER (NLP System)**
-    *   *Attention-based multi-head NLP framework combining classical TF-IDF pipelines, word embeddings, and transformer attention mechanisms.*
-*   **KAVACH (Cybersecurity AI)**
-    *   *AI-driven polymorphic malware detection system leveraging machine learning feature analysis for adaptive threat classification.*
-*   **YOLOv12 Study (Computer Vision)**
-    *   *Object detection research focused on custom image preprocessing, bounding-box annotations quality review, and robust pipeline engineering.*
+<br>
+<br>
 
 ---
 
-### 🔗 Connect With Me
+</div>
 
-*   **LinkedIn:** [linkedin.com/in/hitesh-kaushik-221ba6363](https://linkedin.com/in/hitesh-kaushik-221ba6363)
-*   **Email:** [kaushikhitesh448@gmail.com](mailto:kaushikhitesh448@gmail.com)
+## 🖥️ System Terminal
+
+```bash
+hitesh_kaushik@vit-bhopal:~$ neofetch --theme stealth
+```
+
+```text
+       .---.            OS: Ubuntu 22.04.5 LTS (WSL2)
+      /     \           Host: VIT Bhopal University (B.Tech AI & ML)
+      \     /           Kernel: 5.15.0-generic
+       `---'            Uptime: 2 Years (Active Development)
+      /     \           Shell: zsh 5.8.1
+     /       \          Academic Profile: 8.5 CGPA | 02 Research Papers
+    /         \         Certifications: Oracle Cloud Infrastructure (OCI) Certified
+   /___________\        Primary Focus: Generative AI, Dataset Prep & NLP Pipelines
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 🧠 Deep Learning & Core Languages
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
+
+### 👁️ Computer Vision & Analytics
+[![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
+
+### 💻 Infrastructure & Terminal
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org)
+[![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
+
+</div>
+
+---
+
+## 🎮 Contribution Grid Snake
+
+<div align="center">
+
+<!-- ANIMATED CONTRIBUTIONS SNAKE -->
+<img src="https://raw.githubusercontent.com/HiteshKshk/HiteshKshk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+
+</div>
+
+---
+
+## 📇 Established Connections
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-kaushik-221ba6363) &nbsp; [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikhitesh448@gmail.com)
+
+<br>
+
+*“Available for research collaborations, dataset engineering workflows, and advanced generative AI opportunities.”*
+
+</div>
