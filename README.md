@@ -1,48 +1,134 @@
-# 💻 Tech Stack
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<!-- DYNAMIC TYPING HEADER (Orbitron Font) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=HITESH+KAUSHIK;AI+%26+ML+STUDENT;APPLIED+AI+RESEARCHER" alt="Typing SVG" />
 
-## 🤖 AI / ML
+<p align="center">
+  <strong>B.Tech Artificial Intelligence & Machine Learning Student @ VIT Bhopal University</strong>
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
+<code><kbd>⚡ APPLIED AI SYSTEMS</kbd></code> &nbsp; <code><kbd>🧠 NLP & TRANSFORMERS</kbd></code> &nbsp; <code><kbd>👁️ COMPUTER VISION</kbd></code> &nbsp; <code><kbd>📊 DATASET ENGINEERING</kbd></code>
 
-## 🎨 Design & Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<br>
 
 ---
 
-# 📊 GitHub Stats
+</div>
 
-![](https://github-readme-stats.shion.dev/api?username=HiteshKshk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 🖥️ System Terminal
 
-![](https://streak-stats.demolab.com/?user=HiteshKshk&theme=dark&hide_border=false)
+```bash
+hitesh_kaushik@vit-bhopal:~$ neofetch --theme stealth
+```
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshKshk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```text
+       .---.            OS: Ubuntu 22.04.5 LTS (WSL2)
+      /     \           Host: VIT Bhopal University (B.Tech AI & ML)
+      \     /           Kernel: 5.15.0-generic
+       `---'            Uptime: 2 Years (Active Development)
+      /     \           Shell: zsh 5.8.1
+     /       \          Academic Profile: 8.5 CGPA | 02 Research Papers
+    /         \         Certifications: Oracle Cloud Infrastructure (OCI) Certified
+   /___________\        Primary Focus: Generative AI, Dataset Prep & NLP Pipelines
+```
+
+```bash
+hitesh_kaushik@vit-bhopal:~$ cat profile.json
+```
+```json
+{
+  "role": "AI & ML Student & Practitioner",
+  "location": "India",
+  "focus": ["Deep Learning", "Natural Language Processing", "Computer Vision"],
+  "philosophy": "Building research-backed systems and polished AI-driven applications with high data quality workflows.",
+  "status": "Open for Research Collaborations, Internships, and Generative AI Projects"
+}
+```
 
 ---
 
-# ✍️ Random Dev Quote
+## 🛠️ Technical Arsenal
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+### 🧠 Artificial Intelligence & Machine Learning
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
+[![NLTK](https://img.shields.io/badge/NLP_NLTK-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDQgNnYxMmw4IDQgOC00VjZMMTIgMnptMCAxNy41TDYuNSAxNnYtNmwyIDEuNXYzaDcuNXYtM2wyLTEuNXY2TDEyIDE5LjV6Ii8+PC9zdmc+)](https://www.nltk.org/)
+
+### 👁️ Computer Vision & Data Engineering
+[![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
+
+### 💻 Software & Shell
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org)
+[![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
+
+</div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=HiteshKshk&label=Profile+Views&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
+## ⚡ Featured Projects & Research
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛸 Applied AI & Deep Learning
+
+*   **UNetMamba++** (Research Paper)
+    *   *Description:* Hierarchical cross-scale attention model designed for remote sensing with dual supervision and robust feature learning.
+    *   *Keywords:* `Deep Learning` `Remote Sensing` `Attention Mechanisms`
+
+*   **AMBER** (NLP System)
+    *   *Description:* An attention-based multi-head NLP framework combining classical TF-IDF pipelines, word embeddings, and transformer attention mechanisms for highly contextualized text understanding.
+    *   *Keywords:* `Python` `TensorFlow` `Hugging Face` `NLTK`
+
+*   **KAVACH** (Cybersecurity AI)
+    *   *Description:* AI-driven polymorphic malware detection system leveraging ML feature analysis for highly adaptive and real-time threat classification.
+    *   *Keywords:* `Python` `Machine Learning` `Dataset Prep` `Cybersecurity`
+
+*   **YOLOv12 Study** (Computer Vision)
+    *   *Description:* Object detection research focused on custom image preprocessing, bounding-box annotations quality review, and robust pipeline engineering.
+    *   *Keywords:* `Python` `OpenCV` `YOLO` `Vision Annotation`
+
+---
+
+## 📊 Live System Diagnostics
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%">
+        <!-- GITHUB STATS -->
+        <img src="https://github-readme-stats.vercel.app/api?username=HiteshKshk&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <!-- TOP LANGUAGES -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshKshk&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- GITHUB STREAK -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshKshk&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&sideLabels=888888&currStreakLabel=ffffff" alt="GitHub Streak" width="95%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📇 Established Connections
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-kaushik-221ba6363) &nbsp; [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikhitesh448@gmail.com)
+
+<br>
+
+*“Available for research collaborations, dataset engineering workflows, and advanced generative AI opportunities.”*
+
+</div>
