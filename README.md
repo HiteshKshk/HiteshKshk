@@ -29,18 +29,20 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HiteshKshk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=HiteshKshk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=HiteshKshk&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=HiteshKshk&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshKshk&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshKshk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=HiteshKshk&style=for-the-badge&color=0e75b6)
+[![](https://komarev.com/ghpvc/?username=HiteshKshk&label=Profile+Views&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
